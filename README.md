@@ -1,6 +1,11 @@
 # DHT22
 python script for my dht22 sensor
 
+## coming soon
+- [X] Sensor class
+- [X] ORM with peewee
+- [ ] failure log
+
 ## database
 In this project I'm using a new ORM lib called peewee.
 
